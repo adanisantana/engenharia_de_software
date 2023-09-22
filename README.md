@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto - e-commerce Esportivo</h1>
+<h1 align="center">Projeto - e-commerce Esportivo</h1>
 
 O projeto consiste na construção de um aplicativo e-commerce para  produtos esportivos como: camisetas de times, bolas, chuteiras.
 
